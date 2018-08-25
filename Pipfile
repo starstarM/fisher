@@ -7,6 +7,9 @@ name = "pypi"
 flask = "==0.12.2"
 requests = "*"
 "urllib3" = "*"
+wtforms = "*"
+flask-sqlalchemy = "*"
+cymysql = "*"
 
 [dev-packages]
 
